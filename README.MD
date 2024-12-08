@@ -11,8 +11,8 @@ We except this tool could provide more better experience on windows.
 ![image](image/screenshot1.png)
 
 # Functions
-- [y] Download model list form internet    
-- [y] Use local flash rom directory    
-- [y] Encrypt/Decrypt xtc xml file or image    
-- [y] Detect device connection by click    
+- [x] Download model list form internet    
+- [x] Use local flash rom directory    
+- [x] Encrypt/Decrypt xtc xml file or image    
+- [x] Detect device connection by click    
 
