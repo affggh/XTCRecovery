@@ -58,6 +58,8 @@ namespace XTCRecovery
             uploadDragger.DragChanged += UploadDragger_DragChanged;
             uploadDragger.Click += UploadDragger_Click;
 
+            ThemeHelper.SetColorMode(this, ThemeHelper.IsLightMode() ? true : false);
+
             this.Load += MainWindow_Load;
         }
 
