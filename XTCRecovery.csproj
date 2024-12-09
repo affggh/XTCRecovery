@@ -12,7 +12,7 @@
 	  <ApplicationIcon>Assets\icon.ico</ApplicationIcon>
 	  <Authors>affggh,早茶光</Authors>
 	  <Company>Sky iMoo</Company>
-	  <PackageIcon>icon.png</PackageIcon>
+	  <PackageIcon></PackageIcon>
 	  <RepositoryUrl>https://github.com/affggh/XTCRecovery</RepositoryUrl>
 	  <RepositoryType>git</RepositoryType>
 	  <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>

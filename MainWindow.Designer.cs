@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainWindow));
-            AntdUI.StepsItem stepsItem7 = new AntdUI.StepsItem();
-            AntdUI.StepsItem stepsItem8 = new AntdUI.StepsItem();
-            AntdUI.StepsItem stepsItem9 = new AntdUI.StepsItem();
+            AntdUI.StepsItem stepsItem1 = new AntdUI.StepsItem();
+            AntdUI.StepsItem stepsItem2 = new AntdUI.StepsItem();
+            AntdUI.StepsItem stepsItem3 = new AntdUI.StepsItem();
             this.windowBar1 = new AntdUI.WindowBar();
             this.refreshButton = new AntdUI.Button();
             this.deviceBadge = new AntdUI.Badge();
@@ -174,16 +174,16 @@
             // 
             this.FlashSteps.BadgeAlign = AntdUI.TAlignFrom.Bottom;
             this.FlashSteps.BadgeSize = 0.4F;
-            stepsItem7.Description = "从网络下载rom";
-            stepsItem7.Name = "";
-            stepsItem7.Title = "下载";
-            stepsItem8.Description = "解压刷机包";
-            stepsItem8.Title = "解压";
-            stepsItem9.Description = "时间可能会比较长";
-            stepsItem9.Title = "刷入";
-            this.FlashSteps.Items.Add(stepsItem7);
-            this.FlashSteps.Items.Add(stepsItem8);
-            this.FlashSteps.Items.Add(stepsItem9);
+            stepsItem1.Description = "从网络下载rom";
+            stepsItem1.Name = "";
+            stepsItem1.Title = "下载";
+            stepsItem2.Description = "解压刷机包";
+            stepsItem2.Title = "解压";
+            stepsItem3.Description = "时间可能会比较长";
+            stepsItem3.Title = "刷入";
+            this.FlashSteps.Items.Add(stepsItem1);
+            this.FlashSteps.Items.Add(stepsItem2);
+            this.FlashSteps.Items.Add(stepsItem3);
             this.FlashSteps.Location = new System.Drawing.Point(395, 62);
             this.FlashSteps.Margin = new System.Windows.Forms.Padding(9, 8, 9, 8);
             this.FlashSteps.Name = "FlashSteps";

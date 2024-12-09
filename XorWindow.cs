@@ -8,6 +8,8 @@ namespace XTCRecovery
         {
             InitializeComponent();
 
+            ThemeHelper.SetColorMode(this, ThemeHelper.IsLightMode() ? true : false);
+
             BindEventHandler();
 
         }
