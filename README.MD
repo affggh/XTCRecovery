@@ -9,6 +9,7 @@ We except this tool could provide more better experience on windows.
 
 # Screenshot
 ![image](image/screenshot1.png)
+![image](image/screenshot2.png)
 
 # Functions
 - [x] Download model list form internet    
